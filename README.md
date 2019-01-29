@@ -3,7 +3,7 @@
 # basic bash shell tutorials for beginners
 #### intro to bash
 #### variable in bash 
-#### comment in bash 
+#### comments in bash 
 #### system environment in bash
 #### input in bash 
 #### position parameter in bash 
