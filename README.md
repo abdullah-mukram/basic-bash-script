@@ -1,3 +1,3 @@
-#basic bash shell tutorials
+# basic bash shell tutorials for beginners 
 
 
