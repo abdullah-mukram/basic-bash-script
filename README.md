@@ -10,6 +10,8 @@
 #### * `for loop in bash`
 #### * `while loop in bash`
 
+## youtube channell [bash playlist videos](https://www.youtube.com/watch?v=zLuBVLQJU6Y&index=9&list=PLSUqN4MdJySJFs-2Sj5VY2wBNfngwasOa)
+
 
 
 
