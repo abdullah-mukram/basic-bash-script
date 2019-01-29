@@ -4,7 +4,7 @@
 #### * `intro to bash`
 #### * `variable in bash` 
 #### * `comments in bash` 
-#### * `system environment in bash`
+#### * `system enviroment in bash`
 #### * `input in bash` 
 #### * `position parameter in bash`
 #### * `for loop in bash`
